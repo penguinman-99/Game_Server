@@ -6,7 +6,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="AutoResetEvents.cs" />
     <Compile Remove="Context_Switching.cs" />
+    <Compile Remove="ReaderWriterLocks.cs" />
     <Compile Remove="Spinlock.cs" />
   </ItemGroup>
 
