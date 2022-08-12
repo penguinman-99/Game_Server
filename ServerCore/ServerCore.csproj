@@ -14,6 +14,7 @@
     <Compile Remove="ReaderWriterLock_Practice.cs" />
     <Compile Remove="Spinlock.cs" />
     <Compile Remove="Threads.cs" />
+    <Compile Remove="Tls.cs" />
   </ItemGroup>
 
 </Project>
