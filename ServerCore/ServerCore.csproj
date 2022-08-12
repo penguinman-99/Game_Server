@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -8,7 +8,9 @@
   <ItemGroup>
     <Compile Remove="AutoResetEvents.cs" />
     <Compile Remove="Context_Switching.cs" />
+    <Compile Remove="Lock.cs" />
     <Compile Remove="ReaderWriterLocks.cs" />
+    <Compile Remove="ReaderWriterLock_Practice.cs" />
     <Compile Remove="Spinlock.cs" />
   </ItemGroup>
 
