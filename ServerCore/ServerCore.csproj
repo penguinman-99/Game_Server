@@ -7,11 +7,13 @@
 
   <ItemGroup>
     <Compile Remove="AutoResetEvents.cs" />
+    <Compile Remove="Compiler.cs" />
     <Compile Remove="Context_Switching.cs" />
     <Compile Remove="Lock.cs" />
     <Compile Remove="ReaderWriterLocks.cs" />
     <Compile Remove="ReaderWriterLock_Practice.cs" />
     <Compile Remove="Spinlock.cs" />
+    <Compile Remove="Threads.cs" />
   </ItemGroup>
 
 </Project>
