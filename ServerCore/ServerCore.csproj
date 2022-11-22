@@ -10,6 +10,7 @@
     <Compile Remove="cache.cs" />
     <Compile Remove="Compiler.cs" />
     <Compile Remove="Context_Switching.cs" />
+    <Compile Remove="Interlocked.cs" />
     <Compile Remove="Lock.cs" />
     <Compile Remove="MemoryBarrier.cs" />
     <Compile Remove="Program.cs" />
